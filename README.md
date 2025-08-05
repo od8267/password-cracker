@@ -1,4 +1,4 @@
-# Educational Password Cracking Tool
+# Password Cracker
 
 A comprehensive Python-based educational tool for demonstrating password cracking techniques using wordlist attacks. This tool is designed specifically for cybersecurity education and authorized penetration testing.
 
